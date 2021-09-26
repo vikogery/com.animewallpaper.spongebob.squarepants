@@ -3,10 +3,10 @@
 
 "JSON_POPUP_WAIT" : "Loading data . . .",
 
-"MODE_NO_ADS" : false,
+"MODE_NO_ADS" : true,
 "MODE_BACKUP_ADS" : true,
 
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 //     * mode pengaturan iklan
 //     * Mode ADMOB       Admob backup Unity Backup Startapp
@@ -20,7 +20,7 @@
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
 "PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
-"INTERS_COUNT_WEB" : 3,
+"INTERS_COUNT_WEB" : 5,
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
@@ -28,20 +28,20 @@
 
 "STARAPPID" : "208670239",
 
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
-"ADMOB_NATIV" : "ca-app-pub-3940256099942544/2247696110",
+"ADMOB_BANNER" : "ca-app-pub-4765095539204939/4716382979",
+"ADMOB_INTER" : "ca-app-pub-4765095539204939/2090219637",
+"ADMOB_NATIV" : "ca-app-pub-4765095539204939/9777137963",
 
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "inter",
 "UNITY_GAME_ID" : "4114625",
-"UNITY_TEST_MODE" : true,
+"UNITY_TEST_MODE" : false,
 
 "APPLOVIN_BANNER_ID" : "123456789",
 "APPLOVIN_INTERSTITIAL_ID" : "123456789",
 
 "HPK_ALIENDROID" : "anime wallpaper",
-"HPK_ADMOB1" : "japenese manga",
+"HPK_ADMOB1" : "japanese manga",
 "HPK_ADMOB2" : "cartoon network",
 "HPK_ADMOB3" : "education for kids",
 "HPK_ADMOB4" : "toys store",
